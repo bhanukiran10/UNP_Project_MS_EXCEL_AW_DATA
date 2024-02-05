@@ -8,4 +8,4 @@ Crafted an intuitive dashboard interface accessible to users of varying expertis
 Effectively visualized Key Performance Indicators (KPIs) in a format that delivers a swift overview of the company's performance.
 Applied pertinent Excel functions and formulas to optimize and structure the data, ensuring seamless and impactful visualization.
 
-Power Point Link:-
+Power Point Link:- https://www.canva.com/design/DAF757DL4TA/6kvVetK2E8ez-EFwAo4FDQ/edit?utm_content=DAF757DL4TA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
