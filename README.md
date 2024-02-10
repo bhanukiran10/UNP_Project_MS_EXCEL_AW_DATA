@@ -10,4 +10,4 @@ Applied pertinent Excel functions and formulas to optimize and structure the dat
 
 PDF Link:- https://drive.google.com/file/d/1YteP9QeCzG7gKBxzYZY821N4WfrlquGc/view?usp=sharing
 
-Excel Link :-https://docs.google.com/spreadsheets/d/1nS0Ylw8suJj888jr8amG3L-CP1xpN5wcL0EM-Co7GIk/edit?usp=sharing
+Excel :- https://docs.google.com/spreadsheets/d/1nS0Ylw8suJj888jr8amG3L-CP1xpN5wcL0EM-Co7GIk/edit?usp=sharing
